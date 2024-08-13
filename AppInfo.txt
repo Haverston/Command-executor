@@ -1,0 +1,5 @@
+Name: jsource_console
+Version: 1.0
+Author: Fovchar
+
+Edition 2024
